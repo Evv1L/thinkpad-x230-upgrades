@@ -1,6 +1,6 @@
 ![](https://i.redd.it/qr5igeglrmz01.png "0pk")
 # Thinkpad X230 upgrades
-This repo is a list of upgrades for ThinkPad X230 I found around the internet. Some of this upgrades I made personally<br>
+This repo is a list of upgrades for ThinkPad X230 I found around the internet. Some of this upgrades I made personally <br/>
 
 ## Screen
 ### Stock screens
@@ -8,10 +8,12 @@ This repo is a list of upgrades for ThinkPad X230 I found around the internet. S
 #### 12.5" inch
 #### 13.3" inch
 #### 19:10 aspect ratio screen
+<br/>
 
 ## Motherboard (CPUs)
 ### Stock CPUs
 ### Custom BGA CPUs
+<br/>
 
 ## Fan & heatsink
 **Don't buy new fans without a hetsink**, otherwise they will be not compailable.
@@ -19,23 +21,28 @@ This repo is a list of upgrades for ThinkPad X230 I found around the internet. S
 ### Toshiba fan
 ### AVC fan
 AVC fan is best for cooling.
+<br/>
 
 ## BIOS mods
 ### EC patch
 ### 1vyrain bios
 ### Coreboot
+<br/>
 
 ## Battery
 Biggest battery you can get is 9 cell 8400 mAh battery.
 Also you can use 9 cell battery as a handler.
+<br/>
 
 ## SATA slot
 Any 2.5 SATA III SSD works.<br>
 2.5 HDDs is hard to fit.
+<br/>
 
 ## RAM
 Motherboard supports 16 Gb kit 2133 Mhz (or even 2400 Mhz) DDR3L memory.
 Some people reported froblems with HyperX RAM (dont boot up)
+<br/>
 
 ## Keyboard
 Keyboards you can install:
@@ -43,29 +50,34 @@ Keyboards you can install:
 - Stock 30-series keyboard backlit
 - 20-series keyboard (need EC flash and pin mod)
 You can also use keyboards from T and W series.
+<br/>
 
 ## Trackpoint
 > Custom trackpoints exists, but I have no info about them.
+<br/>
 
 ## Palm rest
-**Avoid non original palm rest**. At least I had non original and it was a bit bigger, bad plastic and no ducts for fluid drainage.
-
+**Avoid non original palm rest**. At least I had non original and it was a bit bigger, bad plastic and no ducts for fluid drainage.<br/>
 Palm rests variants:
 - Normal palm rest
 - Palm rest with a fingerprint reader
 Also you can place 2nd mSATA under palmrest if you have a.gain board and palm rest without fingerprint.
+<br/>
 
 ## Speakers
 You can install MacBook speakers
+<br/>
 
 ## Wifi (PCI-e)
 There is a whitelist for WIFI cards, but you can remove it with 1vyrain.
 ### Before 1vyrain
 ### After 1vyrain
 AX210NGW with M.2 to mSATA adapter
+<br/>
 
 ## External antenna
 You need to drill 1/4 inch hole for antenna.
+<br/>
 
 ## WWAN slot (mSATA)
 ### SSDs
@@ -77,14 +89,17 @@ There is a whitelish for WWAN cards, but you can remove it with 1vyrain.
 Only 3G WWAN modules
 #### After 1vyrain
 > Need more info about 4G WWAN cards
- 
+<br/>
+
 ## Bluetooth
 You can replace Bluetooth module with a USB for wireless mouses.
 If you want to upgrade Bluetooth buy a newer WIFI card (like AX210NGW). They have Bluetooth build in. After that you can remove or disable your stock Bluetooth module.
+<br/>
 
 ## Power
 Default for X230 is 90W power adapter.
 Also you can replace DC charging connector with a Type-C connector.
+<br/>
 
 ## Docks
 > TODO: Is Ultrabase uses SATA III?
@@ -97,6 +112,7 @@ There are 2 docks for X230 that I personally owned:
 
 Linux doesn't detect drive from UltraBase dock after sleep and reattach. Mini Dock 4338 doesn't have this problem, because it uses USB intead of SATA to connect drives.
 You can use Ultrabase dock for booting or installing Windows because of SATA interface.
+<br/>
 
 ## ExpressCard 54 slot
 There are ExpressCards you can install:
@@ -113,15 +129,19 @@ Also M.2 with USB 3.0 port are available.
 > Need more info from xyte.ch
 ### External Graphics Card (eGPU)
 750Ti and external screen is recomended due to limited bandwith of ExpressCard
+<br/>
 
 ## Camera
 > I don't know any camera mods. Maybe you know? :)
+<br/>
 
 ## ThinkLight
 > I saw many red and yellow thinklights, but I don't know how they did this.
+<br/>
 
 ## LED board
 > I don't know any LED board mods. Maybe you know? :)
+<br/>
 
 ## Software
 ### thinkfan (linux)
