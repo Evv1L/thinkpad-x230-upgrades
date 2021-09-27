@@ -1,4 +1,6 @@
 # Palm rest
+- [**Back to list**](https://github.com/Evv1L/thinkpad-x230-upgrades/blob/main/README.md)
+
 **Avoid non original palm rest**. At least I had non original and it was a bit bigger, bad plastic and no ducts for fluid drainage.<br/>
 Palm rests variants:
 - Normal palm rest
