@@ -1,7 +1,8 @@
 # Docks
 - [**Back to list**](https://github.com/Evv1L/thinkpad-x230-upgrades/blob/main/README.md)
 
-> TODO: Is Ultrabase uses SATA III?
+> TODO: Is Ultrabase uses SATA III?<br>
+
 There are 2 docks for X230 that I personally owned:
 - ThinkPad **Ultrabase** Series 3
 - ThinkPad Mini Dock Plus Series 3 with USB 3.0 (**4338**)
