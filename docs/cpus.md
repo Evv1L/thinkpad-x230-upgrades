@@ -9,11 +9,11 @@ Adapter board from **e.gain** also allows you to install modern screens, but thi
 
 ## Stock CPUs
 CPUs are soldered on and you can't replace them without BGA rework. Motherboard uses BA1023 (Ivy Bridge) CPUs. There are list of official CPUs + motherboards that was released by Lenovo:
-|    CPU    |     Cores / Threads  | Frequency | Turbo frequency | L3 cache | TDP |          Features        |     Other info    |
-| --------- | -------------------- |-----------|-----------------|----------|-----|--------------------------|-------------------|
-| i7-3520m  | 2 cores / 4 threads  |	2.9 GHz  |     3.6 GHz     |   4 MB   | 35W | AES, AVX, HT, TXT, TBT   | Festest stock CPU |
-| i5-3360m  | 2 cores / 4 threads  |
-| i5-3340m  | 2 cores / 4 threads  |
-| i5-3320m  | 2 cores / 4 threads  |
+|    CPU    |     Cores / Threads  | Frequency | Turbo frequency | L3 cache | TDP |          Features        |             Other info            |
+| --------- | -------------------- |-----------|-----------------|----------|-----|--------------------------|-----------------------------------|
+| i7-3520m  | 2 cores / 4 threads  |	2.9 GHz  |     3.6 GHz     |   4 MB   | 35W | AES, AVX, HT, TXT, TBT   | Fastest stock CPU & overclockable |
+| i5-3360m  | 2 cores / 4 threads  |  2.8 GHz	 |     3.5 GHz	   |   3 MB	  | 35W	| AES, AVX, HT, TXT, TBT   | Fastest i5 CPU                    |
+| i5-3340m  | 2 cores / 4 threads  |  2.7 GHz  |	   3.4 GHz	   |   3 MB	  | 35W |	AES, AVX, HT, TXT, TBT   | -                                 |
+| i5-3320m  | 2 cores / 4 threads  |  2.6 GHz	 |     3.3 GHz	   |   3 MB	  | 35W	| AES, AVX, HT, TXT, TBT   | Most common CPU (I guess)         |
 
 ## Custom BGA CPUs
